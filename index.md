@@ -1,9 +1,6 @@
 @def title = "Nick Boyd"
 @def hasmath = false
 @def hascode = false
-<!-- Note: by default hasmath == true and hascode == false. You can change this in
-the config file by setting hasmath = false for instance and just setting it to true
-where appropriate -->
 
 # Nick Boyd
 
@@ -43,9 +40,9 @@ where appropriate -->
 See my [google scholar page](https://scholar.google.com/citations?hl=en&user=4C4GOhYAAAAJ&view_op=list_works&sortby=pubdate).
 
 ## Awards
-* 1st place in 2D single-molecule localization microscopy challenge 2016
-* Google Hertz Fellowship
-* 2011 EECS Departmental Citation
-* 2011 Outstanding Academic Achievement Award in L&S CS
-* 2011 Dorothea Klumpke Roberts Prize in Mathematics
-* 2011 NSF GRFP Honorable Mention
+* 1st place in 2D single-molecule localization microscopy challenge 2016.
+* Google Hertz Fellowship.
+* 2011 EECS Departmental Citation.
+* 2011 Outstanding Academic Achievement Award in L&S CS.
+* 2011 Dorothea Klumpke Roberts Prize in Mathematics.
+* 2011 NSF GRFP Honorable Mention.
