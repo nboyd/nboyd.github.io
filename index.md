@@ -11,7 +11,7 @@
   </div>
   <div class="container">
   <p>
-  I do machine learning at a <a href="http://www.xgenomes.com">DNA sequencing startup</a>.
+  I'm currently working at a <a href="http://www.xgenomes.com">DNA sequencing startup</a>.
   </p>
   <p>
   I did my undergrad at UC Berkeley, where I majored in math and computer science and worked with Dan Klein.
@@ -25,7 +25,7 @@
 </div>
 ~~~
 
-## Publications
+## [Publications](https://scholar.google.com/citations?hl=en&user=4C4GOhYAAAAJ&view_op=list_works&sortby=pubdate)
 
 
 * [Sets as Measures: Optimization and Machine Learning](thesis.pdf), UC Berkeley, 2018.
@@ -35,12 +35,11 @@
 * [Streaming Variational Bayes](SVB.pdf), NeurIPS, 2013.
 * [Graph-Theoretic Topological Control of Biological Genetic Networks](topo.pdf) American Control Conference 2009.
 
-See my [google scholar page](https://scholar.google.com/citations?hl=en&user=4C4GOhYAAAAJ&view_op=list_works&sortby=pubdate).
-
+<!-- 
 ## Awards
 * 1st place in 2D single-molecule localization microscopy challenge 2016.
 * Google Hertz Fellowship.
 * 2011 EECS Departmental Citation.
 * 2011 Outstanding Academic Achievement Award in L&S CS.
 * 2011 Dorothea Klumpke Roberts Prize in Mathematics.
-* 2011 NSF GRFP Honorable Mention.
+* 2011 NSF GRFP Honorable Mention. -->
