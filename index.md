@@ -11,9 +11,6 @@
   </div>
   <div class="container">
   <p>
-  I'm currently a machine learning scientist at AtomicAI. 
-  </p>
-  <p>
   I did my undergrad at UC Berkeley, where I majored in math and computer science and worked with Dan Klein.
   I stayed for my PhD in statistics advised by Michael Jordan and Ben Recht.
   After a very brief postdoc with Aviv Regev at the Broad Institute, I served as CTO at XGenomes for three years before joining AtomicAI. 
