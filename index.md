@@ -7,7 +7,7 @@
 ~~~
 <div class="column">
   <div class="container">
-    <img class="left" src="nick.jpg" width="256" height="256">
+    <img class="left" src="nick_2.png" width="256" height="256">
   </div>
   <div class="container">
   <p>
