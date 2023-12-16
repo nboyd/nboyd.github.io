@@ -24,6 +24,7 @@
 
 ## [Publications](https://scholar.google.com/citations?hl=en&user=4C4GOhYAAAAJ&view_op=list_works&sortby=pubdate)
 
+* [ATOM-1: A Foundation Model for RNA Structure and Function Built on Chemical Mapping Data](https://www.biorxiv.org/content/10.1101/2023.12.13.571579v1), bioRxiv, 2023.
 * [Sequencing by Emergence: Modeling and Estimation](https://arxiv.org/abs/2103.10477), arXiv, 2021.
 * [Sets as Measures: Optimization and Machine Learning](thesis.pdf), UC Berkeley, 2018.
 * [DeepLoco: Fast 3D Localization Microscopy Using Neural Networks](https://www.biorxiv.org/content/10.1101/267096v*full.pdf), bioRxiv, 2018.
