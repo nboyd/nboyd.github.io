@@ -12,7 +12,7 @@
   <div class="container">
   <p>
   I did my PhD in machine learning and statistics at Berkeley advised by Michael Jordan and Ben Recht.
-  After a brief postdoc in computational biology with Aviv Regev at the Broad Institute, I served as CTO at XGenomes for three years before joining AtomicAI in 2022. At AtomicAI I developed the core machine learning technology that translates billions of tokens of experimental data into state-of-the-art RNA structure and function predictions. In January 2024 I left AtomicAI to pursue a new project. 
+  After a brief postdoc in computational biology with Aviv Regev at the Broad Institute, I served as CTO at XGenomes for three years before joining AtomicAI in 2022. At AtomicAI I developed the core machine learning technology that translates billions of tokens of experimental data into state-of-the-art RNA structure and function predictions. In January 2024 I left AtomicAI and am now pursuing a new project. 
   </p>
   <p>
   I'm generally interested in algorithms for optimization and machine learning and their application to inverse problems in biology, computational imaging, and physics. I also really like <a href="https://julialang.org/">julia</a>.
