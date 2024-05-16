@@ -10,10 +10,10 @@
 </div>
 ~~~
 
-I build AI tools that accelerate biological research. 
+I'm a researcher with a background in machine learning, optimization, and computer science and an interest in biology. 
 
-At [Atomic AI](https://atomic.ai), I developed [models](https://www.biorxiv.org/content/10.1101/2023.12.13.571579v1) that translate billions of tokens of experimental data into state-of-the-art RNA structure and function predictions.
-Previously, as CTO of [XGenomes](https://www.xgenomes.com), I worked on a fundamentally new approach to DNA sequencing using super-resolution microscopy. 
+At [Atomic AI](https://atomic.ai), I developed [models](https://www.biorxiv.org/content/10.1101/2023.12.13.571579v1) for state-of-the-art RNA structure and function prediction.
+Previously, as CTO of [XGenomes](https://www.xgenomes.com), I worked on a new approach to DNA sequencing using super-resolution microscopy. 
 
 In my PhD at Berkeley (with Ben Recht and Michael Jordan) and brief postdoc at the Broad Institute (with Aviv Regev) I built [optimization algorithms](adcg.pdf) and the [best](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6684258/) algorithms for [high-density super-resolution microscopy](https://www.biorxiv.org/content/10.1101/267096v*full.pdf). 
 
