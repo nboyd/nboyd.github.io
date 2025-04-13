@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nick Boyd</title>
+    <style>
+        :root {
+            --gradient-active: 1; 
+            --solid-background: #cbc4fa; 
+        }
+        body, html {
+            margin: 0;
+            padding: 0;
+            font-family: 'Courier', monospace;
+            /* font-family: Arial, sans-serif; */
+            min-height: 100vh;
+            width: 100%;
+            overflow-x: hidden; 
+        }
+        .gradient-background {
+            min-height: 100vh;
+            width: 100%;
+            background: linear-gradient(45deg, #83817b,#8bc0f8, #d4e6f9);
+            background-size: 100% 100%; 
+            position: relative;
+            padding: 20px; 
+            box-sizing: border-box;
+            display: flex; 
+            flex-direction: column;
+        }
+        .content {
+            position: relative; 
+            padding-bottom: 60px; 
+            width: 80%; 
+            margin: 0 auto; 
+        }
+        .name {
+            /* font-family: 'Courier', monospace; */
+            color: black;
+            font-size: 36px;
+            letter-spacing: 0.1em;
+            position: relative;
+            left: 10%;
+            margin-bottom: 20px; 
+             width: 80%; 
+        }
+
+        .container {
+            display: flex; 
+            align-items: flex-start; 
+            gap: 30px; 
+            position: relative; 
+            left: 10%; 
+            margin-top: 30px; 
+            margin-bottom: 30px; 
+             width: 80%; 
+            box-sizing: border-box; 
+        }
+        .profile-image {
+            margin-top: 10%; 
+            width: 300px; 
+            height: auto; 
+            margin-bottom: 10%; 
+        }
+
+        .about-me {
+            /* font-family: 'Courier', monospace; */
+            color: black;
+            font-size: 16px;
+            line-height: 1.5;
+            text-wrap: balance;
+        }
+        .publications {
+            /* font-family: 'Courier', monospace; */
+            color: black;
+            font-size: 14px;
+            line-height: 1.4;
+            position: relative; 
+            left: 10%; 
+            width: 80%; 
+            text-wrap: balance;
+            margin-bottom: 30px; 
+        }
+        .publications h2 {
+            font-size: 20px;
+            margin-bottom: 15px;
+        }
+        .publications ul {
+            padding-left: 15px;
+        }
+        .publications li {
+            margin-bottom: 10px;
+        }
+        .publications p {
+            text-wrap: balance;
+        }
+    </style>
+</head>
+<body>
+    <div class="gradient-background">
+        <div class="content">
+            <div class="name">
+                Nick Boyd
+            </div>
+            <div class="container">
+                <img src="nick_2.png" alt="Nick Boyd" class="profile-image" style="border-radius: 15px;">
+                
+                <div class="about-me">
+                    I'm a scientist with a background in optimization, AI, and structural biology. 
+                    I build measurement technologies and machine learning algorithms to understand and engineer biological systems.
+                    <br><br>
+                    At Atomic AI, I designed and trained <a href="https://www.biorxiv.org/content/10.1101/2023.12.13.571579v1">ATOM-1</a>, an RNA foundation model based on in-house chemical mapping datasets.
+                    Previously, as CTO of <a href="https://www.xgenomes.com">XGenomes</a>, I developed algorithms and technologies for high-throughput DNA sequencing using localization microscopy.
+                    <br><br>
+                    During my PhD at Berkeley (with Ben Recht and Michael Jordan) and brief postdoc at the Broad Institute (with Aviv Regev) I built <a href="https://arxiv.org/abs/1507.01562">optimization algorithms</a> for inverse problems, including the <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6684258/">best</a> performing algorithms for high-density super-resolution microscopy.
+                    
+                </div>
+                
+            </div>
+            <div class="publications">
+                <h2>select work</h2>
+                <ul>
+                    <li><a href="https://github.com/escalante-bio/boltz-binder-design">boltz-binder-design</a></li>
+                    <li><a href="https://www.biorxiv.org/content/10.1101/2023.12.13.571579v1">ATOM-1: A Foundation Model for RNA Structure and Function Built on Chemical Mapping Data</a> bioRxiv, 2023</li>
+                    <li><a href="https://arxiv.org/abs/2103.10477">Sequencing by Emergence: Modeling and Estimation</a> arXiv, 2021</li>
+                    <li><a href="">DeepLoco: fast 3D localization microscopy using neural networks</a> BioRxiv, 2018</li>
+                    <li><a href="https://arxiv.org/abs/1507.01562"> The Alternating Descent Conditional Gradient Method for Sparse Inverse Problems</a> SIAM Journal on Optimization, 2017</li>
+                    <li><a href="thesis.pdf">Sets as Measures: Optimization and Machine Learning</a>UC Berkeley, 2018</li>
+                    <li><a href="http://jmlr.csail.mit.edu/papers/volume18/17-178/17-178.pdf">Saturating Splines and Feature Selection</a> JMLR, 2018</li>
+                    <li><a href="SVB.pdf">Streaming Variational Bayes</a> NeurIPS, 2013</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
